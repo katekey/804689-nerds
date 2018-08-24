@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Katya Key](https://up.htmlacademy.ru/htmlcss/22/user/804689).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгения Русских](https://htmlacademy.ru/profile/id73475).
 
 ---
 
